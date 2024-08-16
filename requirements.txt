@@ -1,6 +1,5 @@
 pandas
 streamlit 
-alimentacao_dados
 plotly
 joblib
 plotly
